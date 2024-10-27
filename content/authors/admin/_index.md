@@ -68,8 +68,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: AI Writer
+    company_name: Outlier.Ai
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -79,7 +79,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: Administrative Assistant
     company_name: X
     company_url: ''
     company_logo: ''
@@ -112,15 +112,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tennis
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Gym
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Music
         description: ''
         percent: 80
         icon: camera
@@ -128,10 +128,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Chinese (Cantonese)
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
