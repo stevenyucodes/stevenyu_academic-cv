@@ -80,11 +80,11 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Administrative Assistant
-    company_name: X
+    company_name: Executive Vice Chancellor and Provost Office At UC Berkeley
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022
+    date_end: 2024
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
