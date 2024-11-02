@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: 
+    url: https://github.com/stevenyucodes/
   - icon: brands/linkedin
     url: [https://www.linkedin.com/in/steven-yu-codes/)]
   - icon: academicons/google-scholar
