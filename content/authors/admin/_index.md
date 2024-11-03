@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist, AI/ML Engineer
+role: Data Scientist, AI/ML Engineer, Software Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
